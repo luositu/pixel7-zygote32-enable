@@ -2,7 +2,7 @@
 
 > **作用**：在 Pixel 7 上通过 **Apatch 的 KPM 模块**尝试启用 `zygote64_32`（默认 64 位，兼容 32 位）。  
 > **原理参考**：<https://www.jarvisw.com/?p=1587>
-
+> **环境**：pixel7pro，android 13，kernelpatch 0.11
 ---
 
 ## ✨ 特性
